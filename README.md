@@ -1,6 +1,6 @@
 # npmtest-node-chrome
 
-#### test coverage for  [node-chrome (v1.2.3)](https://github.com/0x00A/node-chrome#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-chrome.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-chrome) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-chrome.svg)](https://travis-ci.org/npmtest/node-npmtest-node-chrome)
+#### basic test coverage for  [node-chrome (v1.2.3)](https://github.com/0x00A/node-chrome#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-chrome.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-chrome) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-chrome.svg)](https://travis-ci.org/npmtest/node-npmtest-node-chrome)
 
 #### Run chrome headlessly as a module or as a command from the commandline.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-chrome/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-chrome/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-chrome/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-chrome/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-chrome/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-chrome/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-chrome/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-chrome/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-chrome/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-chrome/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-chrome/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-chrome/build/coverage.html/index.html)
 
